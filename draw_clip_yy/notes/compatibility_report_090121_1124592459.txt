@@ -1,0 +1,6 @@
+Font fnt_test has been converted to font family Ubuntu Condensed SemiItalic (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fnt_test\fnt_test.gms1.png
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Game speed set to 30
+Added compatibility script 'draw/draw_set_blend_mode.gml'
